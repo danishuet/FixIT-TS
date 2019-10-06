@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fixit.Api", "Fixit.Api\Fixit.Api.csproj", "{44F27CFE-1742-4A26-82FA-55A5C9AF817F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fixit.Service", "Fixit.Service\Fixit.Service.csproj", "{318B548C-12F4-4B85-BB5F-BD3B20412265}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fixit.Context", "Fixit.Context\Fixit.Context.csproj", "{42E9B48C-69CF-47D9-BEE6-8AA0D6E2D311}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44F27CFE-1742-4A26-82FA-55A5C9AF817F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44F27CFE-1742-4A26-82FA-55A5C9AF817F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44F27CFE-1742-4A26-82FA-55A5C9AF817F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44F27CFE-1742-4A26-82FA-55A5C9AF817F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{318B548C-12F4-4B85-BB5F-BD3B20412265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{318B548C-12F4-4B85-BB5F-BD3B20412265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{318B548C-12F4-4B85-BB5F-BD3B20412265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{318B548C-12F4-4B85-BB5F-BD3B20412265}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42E9B48C-69CF-47D9-BEE6-8AA0D6E2D311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42E9B48C-69CF-47D9-BEE6-8AA0D6E2D311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42E9B48C-69CF-47D9-BEE6-8AA0D6E2D311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42E9B48C-69CF-47D9-BEE6-8AA0D6E2D311}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
