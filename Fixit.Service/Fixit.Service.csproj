@@ -59,11 +59,11 @@
   <ItemGroup>
     <Compile Include="AuthRepository\AuthRepository.cs" />
     <Compile Include="AuthRepository\IAuthRepository.cs" />
+    <Compile Include="EnumHelper\EnumHelper.cs" />
     <Compile Include="HelperModels\User\UserModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="EnumHelper\" />
     <Folder Include="HelperUtilities\" />
     <Folder Include="LogHelper\" />
     <Folder Include="Manager\" />

@@ -62,8 +62,10 @@
     <Compile Include="DatabaseContext\AuthContext.cs" />
     <Compile Include="DatabaseEntities\ApplicationUser.cs" />
     <Compile Include="DatabaseEntities\ReferenceEntities\Ref_tbl_Category.cs" />
+    <Compile Include="DatabaseEntities\ReferenceEntities\Ref_tbl_UserType.cs" />
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="DatabaseEntities\User.cs" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
